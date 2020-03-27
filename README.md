@@ -14,3 +14,6 @@ Both .py scripts have the same arguments :<br>
 <code>python script filename</code><br><br>
 where <strong>script</strong> is either <strong>javascript-minifier.py</strong> or <strong>css-minifier.py</strong><br>
 <strong>filename</strong> is the path of the file (.js or .css) you want to minify.
+
+# Output
+The output for all scripts is a new file with the stamp min (e.g input=myFile.js , output=myFile.min.js)
