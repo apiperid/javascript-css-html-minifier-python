@@ -17,3 +17,6 @@ where <strong>script</strong> is either <strong>javascript-minifier.py</strong> 
 
 # Output
 The output for all scripts is a new file with the stamp min (e.g input=myFile.js , output=myFile.min.js)
+
+# Python Version
+The Python Version is 3.7.4
