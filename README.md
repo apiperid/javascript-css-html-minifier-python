@@ -1,4 +1,4 @@
-# javascript-css-minifier-python
+# javascript-css-html-minifier-python
 This repository has python codes for just <strong>minifying javascript code and css code</strong>.
 There are many tools that do the same thing and many more (e.g Koala) but this is for someone who wants to do it from script without extra software.<br>
 
